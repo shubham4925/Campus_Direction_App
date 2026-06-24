@@ -41,13 +41,6 @@ Indoor navigation support
 
 Voice-guided directions
 
-Event and timetable integration
-
-Emergency assistance feature
-
-AR-based navigation
-
-
 # Conclusion
 
 The Campus Direction App improves accessibility and navigation within educational institutions by providing an efficient and user-friendly solution for finding campus locations
